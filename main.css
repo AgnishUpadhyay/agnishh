@@ -363,7 +363,7 @@
   height: 50px;
   padding-right: 85px;
   padding-left: 0px;
-  background-image: url("popout_LI.png");
+  background-image: url("socials/popout_LI.png");
   background-position: 88% 50%;
   background-size: 22px;
   background-repeat: no-repeat;
@@ -377,7 +377,7 @@
   top: -3px;
   margin-top: 0px;
   border-right: 10px none #000;
-  background-image: url("popout_resume.svg");
+  background-image: url("socials/popout_resume.svg");
   background-position: 83% 50%;
   background-size: 20px;
 }
@@ -399,7 +399,7 @@
 .sroll-button.bff {
   padding-right: 51px;
   padding-left: 0px;
-  background-image: url("popout_insta.svg");
+  background-image: url("socials/popout_insta.svg");
   background-position: 93% 50%;
   background-size: 16px;
   background-repeat: no-repeat;
@@ -410,19 +410,19 @@
 }
 
 .sroll-button.bff.email {
-  background-image: url("popout_mail.svg");
+  background-image: url("socials/popout_mail.svg");
   background-position: 100% 50%;
   background-size: 20px;
 }
 
 .sroll-button.bff.red {
-  background-image: url("popout_red.png");
+  background-image: url("socials/popout_red.png");
   background-position: 100% 50%;
   background-size: 20px;
 }
 
 .sroll-button.bff.fb {
-  background-image: url("popout_fb.png");
+  background-image: url("socials/popout_fb.png");
   background-position: 100% 50%;
   background-size: 20px;
 }
