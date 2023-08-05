@@ -196,7 +196,7 @@
 
 .image-containers {
   height: 100%;
-  background-image: url("sat.jpg");
+  background-image: url("images/sat.jpg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -614,19 +614,19 @@
 }
 
 .project-recent.uy.newas {
-  background-image: url("headstrong.png");
+  background-image: url("images/headstrong.png");
   cursor: pointer;
 }
 
 .project-recent.uy.sooce {
-  background-image: url("hul-gsk.png");
+  background-image: url("images/hul-gsk.png");
   cursor: pointer;
 }
 
 .project-recent._3 {
   margin-bottom: 11px;
   border-radius: 5px;
-  background-image: url("library.png");
+  background-image: url("images/library.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -634,7 +634,7 @@
 
 .project-recent._5 {
   border-radius: 5px;
-  background-image: url("chess.jpeg");
+  background-image: url("images/chess.jpeg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -651,7 +651,7 @@
 
 .project-recent._2wq {
   border-radius: 10px;
-  background-image: url("headstrong.png");
+  background-image: url("images/headstrong.png");
   background-position: 0px 0px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -785,8 +785,8 @@ p a:active { text-decoration: none; color: red }
   overflow: hidden;
   padding-top: 0px;
   padding-bottom: 69px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.43)), to(rgba(0, 0, 0, 0.43))), url("adios2.png");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.43), rgba(0, 0, 0, 0.43)), url("adios2.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.43)), to(rgba(0, 0, 0, 0.43))), url("images/adios2.png");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.43), rgba(0, 0, 0, 0.43)), url("images/adios2.png");
   background-position: 0px 0px, 205px 50%;
   background-size: auto, 950px;
   background-repeat: repeat, no-repeat;
@@ -885,8 +885,8 @@ p a:active { text-decoration: none; color: red }
   height: auto;
   padding-top: 51px;
   padding-bottom: 51px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.49)), to(rgba(0, 0, 0, 0.49))), url("millFalc.png");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.49), rgba(0, 0, 0, 0.49)), url("millFalc.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.49)), to(rgba(0, 0, 0, 0.49))), url("images/millFalc.png");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.49), rgba(0, 0, 0, 0.49)), url("images/millFalc.png");
   background-position: 0px 0px, 100% 20%;
   background-size: 450px;
   opacity: 1;
@@ -898,8 +898,8 @@ p a:active { text-decoration: none; color: red }
   height: auto;
   padding-top: 51px;
   padding-bottom: 51px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.49)), to(rgba(0, 0, 0, 0.49))), url("bb8.png");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.49), rgba(0, 0, 0, 0.49)), url("bb8.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.49)), to(rgba(0, 0, 0, 0.49))), url("images/bb8.png");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.49), rgba(0, 0, 0, 0.49)), url("images/bb8.png");
   background-position: 0px 0px, 15% 40%;
   background-size: 300px;
   opacity: 1;
@@ -2427,22 +2427,22 @@ p a:active { text-decoration: none; color: red }
   }
 
   .polkjjh {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("adios2.png");
-    background-image: linear-gradient(180deg, transparent, transparent), url("adios2.png");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("images/adios2.png");
+    background-image: linear-gradient(180deg, transparent, transparent), url("images/adios2.png");
     background-position: 0px 0px, 35px 50%;
   }
 
   .process {
     padding-left: 63px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.62)), to(rgba(0, 0, 0, 0.62))), url("millFalc.png");
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.62)), url("millFalc.png");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.62)), to(rgba(0, 0, 0, 0.62))), url("images/millFalc.png");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.62)), url("images/millFalc.png");
     background-position: 0px 0px, 545% 50%;
   }
 
   .process2 {
     padding-left: 63px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.62)), to(rgba(0, 0, 0, 0.62))), url("bb8.png");
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.62)), url("bb8.png");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.62)), to(rgba(0, 0, 0, 0.62))), url("images/bb8.png");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.62)), url("images/bb8.png");
     background-position: 0px 0px, 545% 50%;
   }
 
